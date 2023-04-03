@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tamoghna-dey
-- 👀 I’m interested in web devlopment, dsa.
-- 🌱 I’m currently learning html, css, java, python.
+- 👀 I’m interested in web3.
+- 🌱 I’m currently learning javascript, soldity.
 - 💞️ I love to contribute to open source.
 - 📫 How to reach me - email me at lonelycreatives@gmail.com
 
