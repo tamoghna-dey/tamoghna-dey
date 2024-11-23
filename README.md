@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @tamoghna-dey<br>👀 I’m interested in web3.<br>🌱 I’m currently learning javascript, soldity.<br>💞️ I love wathing animes.<br>📫 How to reach me - email me at lonelycreatives@gmail.com
+👋 Hi, I’m @tamoghna-dey<br>👀 I’m interested in web3 security.<br>🌱 I’m currently learning javascript, soldity.<br>📫 How to reach me - email me at lonelycreatives@gmail.com
 
 
 ## 🌐 Socials:
